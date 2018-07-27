@@ -3,7 +3,7 @@ This project inspired on the lack of tool on making a tabular form of Mermaid UM
 It is simple python script on extracting mermaid (firstly for gantt chart) to generate a desired excel file for project management.
 We have this beaultiful UML diagram based timeline from mermaid: 
 
-![alt text](https://github.com/anandautam1/MermaidExtractor/tree/master/images/MermaidGantt.png)
+![alt text](https://github.com/anandautam1/MermaidExtractor/blob/master/images/MermaidGantt.png)
 
 But we want to convert it to excel because your supervisor said ... this is kinda useless if its not tabulated and nicely formatted .... 
 So ........ the project comes about because of this dilema on easier project management ... 
